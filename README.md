@@ -19,7 +19,9 @@ voice_assistant/
 ```
 
 ## Models
+
 LLM: LLama 2
+
 Speech Recognition: Whisper
 
 ## System Prompt

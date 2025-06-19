@@ -2,3 +2,4 @@
 /.venv/
 .idea
 /input.wav
+/models/
