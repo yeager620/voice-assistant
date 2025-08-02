@@ -10,12 +10,12 @@ voice_assistant/
 ├── src/
 │   ├── main.rs
 │   ├── audio.rs            # Audio capture/playback
-│   ├── speech.rs           # Speech processing (STT/TTS)
+│   ├── speech.rs           # Speech processing
 │   └── voice_detection.rs  # Wake word detection
 ├── models/ 
 │   └── ggml-tiny.bin       # Whisper model
 ├── Cargo.toml
-└── README.md               # Docs
+└── README.md
 ```
 
 ## Models
